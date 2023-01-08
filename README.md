@@ -1,5 +1,5 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning on Academia Geek
+- 🌱 I’m currently learning.
 - 📫 How to reach me: lupeebele@gmail.com
 - ⚡ Fun fact: I like code
